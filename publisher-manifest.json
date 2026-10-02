@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d711c6076d1a4d2446da0c25",
+  "owner": "fcak4dfp",
+  "repo": "page-5b634e28b1791b93ce77d761",
+  "title": "小飞机",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5b634e28b1791b93ce77d761",
+      "a": "小飞机",
+      "b": "",
+      "entity": "小飞机",
+      "brand": "小飞机",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6b40e9db4c750325594548160433cdaf781f1444e657748fccaf7bc6b7aa64c0",
+      "content": {
+        "keyword1": "小飞机",
+        "keyword2": "",
+        "primary_entity": "小飞机",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小飞机提供机场订阅与VPN加速器服务，覆盖办公、流媒体与游戏场景，支持多端客户端官方下载，并给出清晰配置流程与套餐说明。",
+          "AI_DESCRIPTION": "小飞机提供机场订阅与VPN加速器服务，覆盖办公、流媒体与游戏场景，支持多端客户端官方下载，并给出清晰配置流程与套餐说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;background:#f6f1e8;color:#1c2b22;line-height:1.65;font-size:16px}a{color:#1f4d36}header{background:#1f4d36;color:#f6f1e8;padding:12px 0}header .wrap,footer .wrap,main{max-width:960px;margin:0 auto;padding:0 16px}nav{display:flex;flex-wrap:wrap;gap:8px 14px;font-size:14px}nav a{color:#e8f0e9;text-decoration:none}main{padding:8px 16px 28px}h1{font-size:1.75rem;color:#1f4d36;margin:18px 0 8px}h2{font-size:1.32rem;color:#245c3e;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #c5d9cc}h3{font-size:1.08rem;color:#2a6344;margin:16px 0 8px}.lead{margin:0 0 14px;font-size:1.02rem}.cards{display:flex;flex-wrap:wrap;gap:12px;margin:12px 0 8px}.card{flex:1 1 250px;background:#fffdf8;border:1px solid #d5e4da;border-radius:8px;padding:14px 16px}.card.featured{border:2px solid #1f4d36;background:#eef6f0}.price{font-size:1.35rem;font-weight:700;color:#1f4d36;margin:6px 0}.annual{font-size:.9rem;color:#4a6b58;margin-bottom:8px}ul{padding-left:1.2em;margin:8px 0 4px}ol{padding-left:1.2em;margin:8px 0}li{margin:4px 0}p{margin:8px 0}details{background:#fffdf8;border:1px solid #d5e4da;margin:8px 0;padding:8px 12px;border-radius:6px}summary{font-weight:600;color:#1f4d36}.ad{background:#e8efe6;border:1px solid #c5d9cc;border-radius:6px;padding:12px;margin:16px 0;font-size:14px}.note{font-size:14px;color:#3d5748}footer{background:#1f4d36;color:#e8f0e9;margin-top:24px;padding:20px 0;font-size:14px}footer a{color:#c5e0d0}footer ul{list-style:none;padding:0}footer li{margin:4px 0}@media (max-width:640px){.card{flex:1 1 100%}h1{font-size:1.5rem}nav a{font-size:13px}}</style><header><div class=\"wrap\"><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">广告</a><a href=\"#links\">友链</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main><h1>小飞机</h1><p class=\"lead\" id=\"intro\">小飞机官方网站面向需要稳定跨境连接的个人与团队，提供机场订阅、VPN 加速器与多端客户端下载。页面重点说明套餐差异与配置流程，帮助你从选购、导入订阅到日常使用一次理清。</p><section id=\"plans\"><h2>套餐与官方订阅说明</h2><p>小飞机以月付与年付并行。年付可锁定当前档位价格，适合长期办公或固定观影需求。以下为当前公开档位，流量与设备数为同时在线上限，实际体验还取决于你选择的线路与本地网络。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"note\">流量按自然月重置。若你主要使用 4K 流媒体或长时间开黑，优先考虑旗舰版的 IPLC 与原生解锁；多人共用同一订阅请选择团队版以免挤占设备数。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与远程协作</h3><p>视频会议、云文档与代码仓库访问对延迟和丢包敏感。小飞机把办公常用线路单独分组，配置流程里建议先测延迟再固定节点，避免会议中途跳线。</p><h3>流媒体与资料检索</h3><p>基础版覆盖常见点播解锁；旗舰版强调全节点原生解锁，减少验证失败。学术站点、公开课与软件更新也可走加速节点，但仍需遵守当地与平台条款。</p><h3>游戏与实时对战</h3><p>旗舰版提供 IPLC 游戏优化，适合对延迟稳定有要求的玩家。团队版则把带宽与设备数放开，方便工作室或多设备家庭共用一条订阅。</p></section><section id=\"setup\"><h2>配置流程（操作说明）</h2><p>小飞机的使用可以概括为五步：选套餐、拿到订阅、安装客户端、导入并更新、选择节点连接。请按顺序完成，不要跳过更新订阅这一步。</p><h3>第一步：确认套餐与设备数量</h3><p>先数清需要同时在线的手机、电脑和平板。3 台以内选基础版，5 台以内选旗舰版，工作室或家庭共享选团队版。流量以当月累计出站为准，下载客户端本身不计入套餐流量。</p><h3>第二步：在官网完成订阅</h3><p>登录小飞机官网会员中心后选择对应档位。支付成功后，面板会生成一条订阅地址。请只在本机密码管理器或加密笔记中保存，不要把订阅发到公开群组。</p><h3>第三步：下载对应系统的客户端</h3><p>前往本页<a href=\"#download\">客户端下载</a>区，按系统选择官方推荐应用。Windows 与 macOS 使用桌面核心客户端，Android 与 iOS 使用移动端。同一订阅可在设备上限内多端导入。</p><h3>第四步：导入订阅并更新节点</h3><ol><li>打开客户端，找到订阅或配置文件入口。</li><li>粘贴官网提供的订阅地址，命名为「小飞机」以便识别。</li><li>点击更新，确认节点列表刷新成功。</li><li>若列表为空，检查系统时间是否准确，再重试一次更新。</li></ol><h3>第五步：选节点、开启系统代理并验证</h3><p>日常网页可选普通线路；会议与游戏改走低延迟或 IPLC 分组。开启系统代理或 VPN 模式后，用浏览器访问目标站点验证。若某条线路不稳定，在客户端内切换同分组其他节点即可，无需重新导入。</p><p class=\"note\">更换套餐或重置订阅链接后，必须在所有设备上重新更新一次。旧链接会在短时间内失效，这是为了避免分享外泄。</p></section><section id=\"download\"><h2>客户端官方下载</h2><p>请从本站指引进入下载区，避免使用来路不明的安装包。桌面端负责系统代理与规则分流，移动端负责随时连接。导入同一条小飞机订阅后，设备数仍受套餐限制。</p><ul><li><a href=\"#download\">Windows 桌面客户端</a>：适合长期挂机与规则分流。</li><li><a href=\"#download\">macOS 桌面客户端</a>：与系统网络设置协同，会议前先测延迟。</li><li><a href=\"#download\">Android 客户端</a>：建议锁定后台，以免系统休眠断开。</li><li><a href=\"#download\">iOS 客户端</a>：通过官方渠道获取，导入订阅后开启 VPN 配置。</li></ul><p>安装完成后回到配置流程第四步导入订阅。小飞机不通过邮件群发安装包，若收到陌生下载链接请忽略。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>小飞机是什么？和普通加速器有何不同？</summary><p>小飞机是提供机场订阅与多端客户端的网络加速服务。它把节点、流量与设备数打包进套餐，并在官网给出从下载到导入的完整配置流程，而不是只给一句“连接即可”。</p></details><details><summary>如何完成第一次配置？</summary><p>按本页配置流程：选套餐、复制订阅、下载官方客户端、粘贴并更新、选择节点后开启代理。任何一步失败，优先检查系统时间和是否用了过期链接。</p></details><details><summary>客户端下载是否必须走官网？</summary><p>是。只有官网列出的客户端能正确识别小飞机订阅格式并及时更新节点。第三方修改版可能造成账号异常或无法解锁流媒体。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>轻度浏览与基础点播选基础版；需要原生流媒体、游戏 IPLC 与优先工单选旗舰版；超过 5 台设备或需要定制路由选团队版。年付价格见各卡片说明。</p></details><details><summary>流量用完或设备超限会怎样？</summary><p>当月流量用尽后加速会降速或暂停，下个自然月重置。同时在线超过套餐台数时，新设备无法握手。可升级档位或下线空闲设备。</p></details><details><summary>节点连不上时如何排查？</summary><p>先更新订阅，再换同分组其他节点；确认本地网络可访问官网；关闭重复开启的系统 VPN。若仅某一地区线路异常，改用备用分组即可。</p></details><details><summary>团队版如何做简单路由分工？</summary><p>可在客户端为办公、流媒体、游戏设置不同策略组，把对应域名或应用指到 VIP 节点。具体规则字段以客户端说明为准，小飞机侧提供专属客户经理协助核对设备数。</p></details></section><aside class=\"ad\" id=\"ads\"><h2>广告</h2><p>小飞机旗舰版年付适合高频流媒体与游戏加速用户，可在官网套餐区直接对比设备数与 IPLC 说明。品牌合作与内容置换请通过官方站点公示渠道联系，本页不放置第三方跳转脚本。</p></aside><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><section id=\"links\"><h2>友链</h2><ul><li><a href=\"#\">跨境办公网络指南</a></li><li><a href=\"#\">流媒体设备兼容说明</a></li><li><a href=\"#\">桌面客户端规则入门</a></li><li><a href=\"#\">团队网络分工备忘</a></li></ul></section><section id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐价格</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#setup\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">广告</a></li><li><a href=\"#links\">友链</a></li></ul></section><p>小飞机官方网站 · 机场订阅与 VPN 加速器信息以本页公示为准。</p></div></footer>",
+          "hash": "a77ecac14a44aa46e27036d70f710594e8e00a4989169ca853fa167e10e52822",
+          "seo": {
+            "title": "小飞机官网｜机场订阅 VPN 加速器与客户端官方下载",
+            "keywords": "小飞机,小飞机官网,小飞机VPN,小飞机机场,机场订阅,VPN加速器,梯子网络加速,客户端下载,官方下载",
+            "description": "小飞机提供机场订阅与VPN加速器服务，覆盖办公、流媒体与游戏场景，支持多端客户端官方下载，并给出清晰配置流程与套餐说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tsryipc.cn",
+    "host": "p-8a6f431abf.tsryipc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "tsryipc.cn",
+      "url": "https://tsryipc.cn/",
+      "label": "IPLCCloud",
+      "apex": "tsryipc.cn",
+      "kind": null,
+      "identity": "arjmps/page-e6ef3e75f6be02df72debbaa"
+    },
+    {
+      "host": "bewou.cn",
+      "url": "https://bewou.cn/",
+      "label": "小飞机",
+      "apex": "bewou.cn",
+      "kind": null,
+      "identity": "mfvxby/page-f126e3e23a7a7ee90fcec67b"
+    },
+    {
+      "host": "geruizhineng.cn",
+      "url": "https://geruizhineng.cn/",
+      "label": "小飞机",
+      "apex": "geruizhineng.cn",
+      "kind": null,
+      "identity": "espdhy/page-18f4805a2f1620bf0a767b50"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c36ad195ce21e71a36dadad2fa68129a84229a3bd45cdc0776a3aca789382127",
+    "sitemap.xml": "55ecc552805b04e5cea5c7867bbe4e9fc86711e52ee0315185c75d6f643b9809",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dd9a3be5f0d96857889ec609b4dca723ba787599ec3ff61dd657f340b824d9e4",
+    "robots.txt": "0b55d857949c6f1032811fa6fb486cd5d66d4426553029898708efeee761f91a",
+    "955ac0eeea201f9fb1481d0505e97b0a.txt": "ea858a386598740fed1d05da289f857b77df8e5739f96ea59216ff3ef9e8e971"
+  },
+  "revision": "00b5fb76f60aba613d442b54e074d9e13258010b08243ce1ce5d7e42abaf0cd8"
+}
